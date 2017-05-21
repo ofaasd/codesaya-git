@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: ofaasd
+Github: ofaasd
+Nama: Abdul Ghofar
+Website: http://o-por.com
+Pesan: Belajar memang harus dari dasar dan step by step, Terimakasih atas Tutorialnya
